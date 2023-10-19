@@ -10,7 +10,7 @@ Spring Boot, e usa tecnologias como Docker, BCrypt e Spring Data.
 ./mvnw clean package
 ```
 ```
-java -jar todolist/target/todolist-1.0.0.jar
+java -jar todolist/target/0.0.1-SNAPSHOT.jar
 ```
 A API ficará disponível em [localhost:8080](http://localhost:8080).
 
