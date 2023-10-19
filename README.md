@@ -1,4 +1,4 @@
-<h1 align="center">TodoList API</h1>
+<h1>todoList API</h1>
 
 Projeto feito durante o cruso de Java da [Rocketseat](https://rocketseat.com.br),se trata de uma API de gerenciamento de tasks registradas por usuários construído e foi construído com o 
 Spring Boot
