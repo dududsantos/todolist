@@ -1,6 +1,6 @@
 <h1>todoList API</h1>
 
-Projeto feito durante o cruso de Java da [Rocketseat](https://rocketseat.com.br), se trata de uma API de gerenciamento de tasks registradas por usuários e foi construído com o 
+Projeto feito durante o curso de Java da [Rocketseat](https://rocketseat.com.br), se trata de uma API de gerenciamento de tasks registradas por usuários e foi construído com o 
 Spring Boot, e usa tecnologias como Docker, BCrypt e Spring Data.
 
 ### Executar
